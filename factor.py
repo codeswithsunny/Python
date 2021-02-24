@@ -5,5 +5,4 @@ def print_factors(x):
            print(i)
 
 num = 120
-
 print_factors(num)
