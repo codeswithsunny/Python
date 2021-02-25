@@ -1,0 +1,9 @@
+# importing the module........... 
+import wikipedia 
+
+# getting suggestions.............
+result = wikipedia.search("programming", results = 5) 
+
+# printing the result............... 
+print(result) 
+ 
